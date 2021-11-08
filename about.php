@@ -214,9 +214,10 @@
                         <li id="menu-item-467"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a
                                 href="video.php" style="color:#ffffff;"><strong>VIDEOS</strong></a></li>
-                                <li id="menu-item-467"
+                        <li id="menu-item-467"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a
-                                href="hairRemovel.php" style="color:#ffffff;"><strong>LASER HAIR REMOVEL</strong></a></li>
+                                href="hairRemovel.php" style="color:#ffffff;"><strong>LASER HAIR REMOVEL</strong></a>
+                        </li>
                     </ul>
                 </nav>
             </div>
