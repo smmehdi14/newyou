@@ -1,0 +1,8 @@
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: logonInCode in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 8
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: logonInCode in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 12
+[21-Jun-2021 13:28:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/geo.php on line 3
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: send in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 151
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: status in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 153
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 158
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: user_error in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 159
+[21-Jun-2021 13:28:15 UTC] PHP Notice:  Undefined variable: pass_error in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/login.made-in-china.com/sign-in/index.php on line 170

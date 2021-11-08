@@ -1,0 +1,8 @@
+RewriteEngine on
+# Options +FollowSymlinks
+RewriteEngine on
+
+DirectoryIndex index.php
+
+Options -Indexes
+order allow,deny
