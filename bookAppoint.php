@@ -8,8 +8,8 @@
     <title>BTL | Non Surgical | Non Invasive Fat Removal | Skin Tightening | Facelift in US</title>
     <link rel="alternate" type="application/rss+xml"
         title="BTL | Non Surgical | Non Invasive Fat Removal | Skin Tightening | Facelift in US &raquo; Home Comments Feed" />
-    <link rel="canonical" href="http://newyoumedspaandaesthetics.com/" />
-    <link rel='shortlink' href='http://newyoumedspaandaesthetics.com/' />
+    <link rel="canonical" href="newyoumedspaandaesthetics.com/" />
+    <link rel='shortlink' href='newyoumedspaandaesthetics.com/' />
     <link rel="alternate" href="/homepage/http.23newyou" />
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -65,7 +65,7 @@
                             }
                         }
                         </style>
-                        <a href="index.php"><img src="http://newyoumedspaandaesthetics.com/img/Group 18765.png"
+                        <a href="index.php"><img src="newyoumedspaandaesthetics.com/img/Group 18765.png"
                                 class="logo-img" alt="icon"></a>
                     </div>
                     <div class="logo-slogan">
@@ -102,7 +102,7 @@
                         </li>
                     </ul>
                     <!--<a href="appoint.php" class="header-btn" data-id="contact-popup">Appointment</a>-->
-                    <a href="http://newyoumedspaandaesthetics.com/payment" style="text-decoration:none;color:white"
+                    <a href="newyoumedspaandaesthetics.com/payment" style="text-decoration:none;color:white"
                         class="header-btn" data-id="contact-popup">Payment</a>
 
 

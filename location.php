@@ -12,11 +12,11 @@
     <meta name="description" content="Botox is the number one non-invasive cosmetic procedure being performed in the world. This procedure is popular because it is extremely safe cost effective 
     and painless.">
     <meta name="keywords" content="Newyoumed spaan daesthetics">
-    <link rel="canonical" href="http://newyoumedspaandaesthetics.com/" />
-    <link rel='shortlink' href='http://newyoumedspaandaesthetics.com/' />
-    <link rel="icon" alt="logo" href="http://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
-    <link rel="icon" alt="logo" href="http://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
-    <link rel="shortcut icon" alt="logo" href="http://newyoumedspaandaesthetics.com/img/1/favicon.png" />
+    <link rel="canonical" href="newyoumedspaandaesthetics.com/" />
+    <link rel='shortlink' href='newyoumedspaandaesthetics.com/' />
+    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
+    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
+    <link rel="shortcut icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 
@@ -70,7 +70,7 @@
                             }
                         }
                         </style>
-                        <a href="index.php"><img src="http://newyoumedspaandaesthetics.com/img/Group 18765.png"
+                        <a href="index.php"><img src="newyoumedspaandaesthetics.com/img/Group 18765.png"
                                 class="logo-img" alt="icon"></a>
                     </div>
                     <div class="logo-slogan">
@@ -81,7 +81,7 @@
                 <div class="social-holder">
                     <span class="phn-numb">
                         <i>
-                            <img src="http://newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
+                            <img src="newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
                                 height="20" width="20" alt="logo">
                         </i>
                         <a href="tel: 1 7746436261" class="phone" style="color:#ffffff;">1 774 643 6261</a>
@@ -89,21 +89,21 @@
                     <ul class="social-icons">
                         <li>
                             <a href="https://web.facebook.com/BTLAestheticsInternational/?_rdc=1&_rdr" target="_blank">
-                                <img src="http://newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
+                                <img src="newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com/BTLaesthetics" target="_blank">
-                                <img src="http://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
+                                <img src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
                         </li>
                         <li>
                             <a href="https://www.youtube.com/user/BTLmedical" target="_blank">
-                                <img src="http://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
+                                <img src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://www.instagram.com/btlaesthetics/" target="_blank">
-                                <img src="http://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
+                                <img src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
                             </a>
                         </li>
                     </ul>
@@ -206,7 +206,7 @@
                             <div class="dropdown">
                                 <span style="color:#FFFFFF;" id="menu-item-546"
                                     class="menu-item menu-item-type-post_type"><strong>MEDSPA</strong>
-                                    <img src="http://newyoumedspaandaesthetics.com/img/Layer 1.png" alt="icon"
+                                    <img src="newyoumedspaandaesthetics.com/img/Layer 1.png" alt="icon"
                                         hieht="10" width="10" style="margin-left: 5px;margin-top:8px;" /></span>
                                 <div class="dropdown-content">
                                     <ul style="padding:0; margin:0; margin-left:17px;">
@@ -291,13 +291,13 @@
                     <!--<div class="row">-->
                     <!--    <div class="col-lg-4 col-md-12 col-sm-12 mb-3">-->
                     <!--        <div class="" style="border:none;">-->
-                    <!--<a href="location" ><img class="card-img-top" style="width:100px;" src="http://newyoumedspaandaesthetics.com/img/jc-min.jpeg" alt="Card image cap"></a>-->
+                    <!--<a href="location" ><img class="card-img-top" style="width:100px;" src="newyoumedspaandaesthetics.com/img/jc-min.jpeg" alt="Card image cap"></a>-->
 
                     <!--</div>-->
                     <!--    </div>-->
                     <!--    <div class="col-lg-4 col-md-12 col-sm-12 mb-3">-->
                     <!--        <div class="" style="border:none;">-->
-                    <!--<a href="location" ><img class="card-img-top" style="width:100px;" src="http://newyoumedspaandaesthetics.com/img/image/offi-min.jpg" alt="Card image cap"></a>-->
+                    <!--<a href="location" ><img class="card-img-top" style="width:100px;" src="newyoumedspaandaesthetics.com/img/image/offi-min.jpg" alt="Card image cap"></a>-->
 
                     <!--</div>-->
                     <!--    </div>-->
@@ -436,14 +436,14 @@
                 <div class="footer-col">
                     <ul class="social-icons">
                         <li><a href="https://www.facebook.com/BTLAestheticsInternational/?_rdc=2&_rdr"
-                                target="_blank"><img src="http://newyoumedspaandaesthetics.com/img/1/34.png"
+                                target="_blank"><img src="newyoumedspaandaesthetics.com/img/1/34.png"
                                     alt="icon"></a></li>
                         <li><a href="https://twitter.com/BTLaesthetics" target="_blank"><img
-                                    src="http://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
+                                    src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
                         <li><a href="https://www.youtube.com/user/BTLmedical" target="_blank"><img
-                                    src="http://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
+                                    src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
                         <li><a href="https://www.instagram.com/btlaesthetics/" target="_blank"><img
-                                    src="http://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
+                                    src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
                     </ul>
                 </div>
             </div>

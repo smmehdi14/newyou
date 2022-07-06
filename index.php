@@ -12,8 +12,8 @@
         title="BTL | Non Surgical | Non Invasive Fat Removal | Skin Tightening | Facelift in US &raquo; Home Comments Feed" />
     <link rel='https://api.w.org/' href="/homepage/wp-json" />
     <link rel="wlwmanifest" href="/homepage/wlwmanifest.xml" />
-    <link rel="canonical" href="http://newyoumedspaandaesthetics.com/" />
-    <link rel='shortlink' href='http://newyoumedspaandaesthetics.com/' />
+    <link rel="canonical" href="newyoumedspaandaesthetics.com/" />
+    <link rel='shortlink' href='newyoumedspaandaesthetics.com/' />
     <link rel="alternate" href="/homepage/http.23newyou" />
     <link rel="alternate" href="/homepage/embeded.xml" />
     <link rel="icon" href="img/1/favicon.png" sizes="32x32" />
@@ -66,7 +66,7 @@
                             }
                         }
                         </style>
-                        <a href="index.php"><img src="http://newyoumedspaandaesthetics.com/img/Group 18765.png"
+                        <a href="index.php"><img src="newyoumedspaandaesthetics.com/img/Group 18765.png"
                                 class="logo-img" alt="icon"></a>
                     </div>
                     <div class="logo-slogan">
