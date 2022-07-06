@@ -1,93 +1,93 @@
-[11-Jun-2021 19:07:43 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 10:30:57 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 10:38:44 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[12-Jun-2021 11:53:04 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 11:56:56 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[12-Jun-2021 12:15:04 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 12:16:00 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[12-Jun-2021 12:56:34 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 12:58:37 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[12-Jun-2021 15:21:06 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[12-Jun-2021 15:40:44 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[14-Jun-2021 11:34:45 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tellinmedicine'@'localhost' to database 'newbtl' in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 6
-[14-Jun-2021 12:28:32 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctorone.php on line 9
-[14-Jun-2021 12:41:06 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:41:06 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 16
-[14-Jun-2021 12:42:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:43:04 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:44:16 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:46:03 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:48:30 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:52:37 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 12:53:09 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:05:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:06:59 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:13:48 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:17:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:24:35 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:25:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:31:43 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:32:30 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:32:42 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:33:18 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:39:47 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:39:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:40:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:45:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:45:49 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:47:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:57:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 13:57:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 16
-[14-Jun-2021 14:01:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 14:02:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 14:02:15 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 13
-[14-Jun-2021 14:03:57 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:04:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:04:36 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:05:24 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:06:18 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:06:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 3
-[14-Jun-2021 14:09:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:12:12 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:13:58 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:21:45 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:32:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:37:34 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:41:09 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:42:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:42:17 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:48:40 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 14:48:49 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/DBmail.php on line 4
-[14-Jun-2021 16:11:11 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got: 3 in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php:61
+[11-Jun-2021 19:07:43 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 10:30:57 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 10:38:44 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[12-Jun-2021 11:53:04 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 11:56:56 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[12-Jun-2021 12:15:04 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 12:16:00 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[12-Jun-2021 12:56:34 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 12:58:37 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[12-Jun-2021 15:21:06 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[12-Jun-2021 15:40:44 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[14-Jun-2021 11:34:45 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'tellinmedicine'@'localhost' to database 'newbtl' in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 6
+[14-Jun-2021 12:28:32 UTC] PHP Notice:  Undefined index: phone in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctorone.php on line 9
+[14-Jun-2021 12:41:06 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:41:06 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 16
+[14-Jun-2021 12:42:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:43:04 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:44:16 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:46:03 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:48:30 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:52:37 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 12:53:09 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:05:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:06:59 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:13:48 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:17:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:24:35 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:25:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:31:43 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:32:30 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:32:42 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:33:18 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:39:47 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:39:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:40:00 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:45:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:45:49 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:47:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:57:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 13:57:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 16
+[14-Jun-2021 14:01:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 14:02:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 14:02:15 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 13
+[14-Jun-2021 14:03:57 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:04:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:04:36 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:05:24 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:06:18 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:06:55 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 3
+[14-Jun-2021 14:09:14 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:12:12 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:13:58 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:21:45 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:32:51 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:37:34 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:41:09 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:42:08 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:42:17 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:48:40 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 14:48:49 UTC] PHP Notice:  Undefined index: email in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/DBmail.php on line 4
+[14-Jun-2021 16:11:11 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$emailAddress" must be a valid email address. Got: 3 in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php:61
 Stack trace:
-#0 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('3', 'emailAddress')
-#1 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('3')
-#2 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('3', 'lost your job', NULL)
-#3 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '3', 'lost your job', NULL, NULL, NULL)
-#4 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/email.php(18): SendGrid\Mail\Mail->addTo('3', 'lost your job')
+#0 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/EmailAddress.php(69): SendGrid\Helper\Assert::email('3', 'emailAddress')
+#1 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/EmailAddress.php(47): SendGrid\Mail\EmailAddress->setEmailAddress('3')
+#2 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(191): SendGrid\Mail\EmailAddress->__construct('3', 'lost your job', NULL)
+#3 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(389): SendGrid\Mail\Mail->addRecipientEmail('To', '3', 'lost your job', NULL, NULL, NULL)
+#4 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/email.php(18): SendGrid\Mail\Mail->addTo('3', 'lost your job')
 #5 {main}
-  thrown in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php on line 61
-[15-Jun-2021 08:13:54 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[15-Jun-2021 08:18:12 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[15-Jun-2021 08:18:49 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[15-Jun-2021 08:49:42 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[15-Jun-2021 09:01:41 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[18-Jun-2021 18:14:29 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
-[21-Jun-2021 13:27:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/unzip.php on line 169
-[21-Jun-2021 13:27:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/unzip.php on line 169
-[21-Jun-2021 13:27:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/unzip.php on line 1827
-[06-Jul-2021 11:40:35 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$email" must be an instance of SendGrid\Mail\From or a valid email address in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php:61
+  thrown in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php on line 61
+[15-Jun-2021 08:13:54 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[15-Jun-2021 08:18:12 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[15-Jun-2021 08:18:49 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[15-Jun-2021 08:49:42 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[15-Jun-2021 09:01:41 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[18-Jun-2021 18:14:29 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9
+[21-Jun-2021 13:27:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/unzip.php on line 169
+[21-Jun-2021 13:27:15 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; PclZip has a deprecated constructor in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/unzip.php on line 169
+[21-Jun-2021 13:27:15 UTC] PHP Notice:  A non well formed numeric value encountered in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/unzip.php on line 1827
+[06-Jul-2021 11:40:35 UTC] PHP Fatal error:  Uncaught SendGrid\Mail\TypeException: "$email" must be an instance of SendGrid\Mail\From or a valid email address in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php:61
 Stack trace:
-#0 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(942): SendGrid\Helper\Assert::email('', 'email', '"$email" must b...')
-#1 /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php(13): SendGrid\Mail\Mail->setFrom('', 'New You')
+#0 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/mail/Mail.php(942): SendGrid\Helper\Assert::email('', 'email', '"$email" must b...')
+#1 /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php(13): SendGrid\Mail\Mail->setFrom('', 'New You')
 #2 {main}
-  thrown in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php on line 61
-[06-Jul-2021 11:45:46 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:45:46 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:46:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:46:22 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:46:39 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:46:39 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:47:44 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 11:47:44 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/mailtwo.php on line 2
-[06-Jul-2021 12:35:48 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/newyoumedspaandaesthetics.com/doctortwo.php on line 9
+  thrown in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/vendor/sendgrid/sendgrid/lib/helper/Assert.php on line 61
+[06-Jul-2021 11:45:46 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:45:46 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:46:22 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:46:22 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:46:39 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:46:39 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:47:44 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 11:47:44 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/mailtwo.php on line 2
+[06-Jul-2021 12:35:48 UTC] PHP Notice:  Undefined index: amount in /home/t0v3tn936bqg/https://newyoumedspaandaesthetics.com/doctortwo.php on line 9

@@ -11,11 +11,11 @@
     <meta name="description"
         content="BTL VANQUISH ME is the second generation of contactless technology for fat cell disruption. The device has the largest treatment area in the industry.">
     <meta name="keywords" content="Newyou med spaan aesthetics">
-    <link rel="canonical" href="newyoumedspaandaesthetics.com/" />
-    <link rel='shortlink' href='newyoumedspaandaesthetics.com/' />
-    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
-    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
-    <link rel="shortcut icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" />
+    <link rel="canonical" href="https://newyoumedspaandaesthetics.com/" />
+    <link rel='shortlink' href='https://newyoumedspaandaesthetics.com/' />
+    <link rel="icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
+    <link rel="icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
+    <link rel="shortcut icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" />
 </head>
 
 <body data-rsssl=1 class="home page-template-default page page-id-2 responsive-menu-slide-left">
@@ -63,7 +63,7 @@
                             }
                         }
                         </style>
-                        <a href="index.php"><img src="newyoumedspaandaesthetics.com/img/Group 18765.png"
+                        <a href="index.php"><img src="https://newyoumedspaandaesthetics.com/img/Group 18765.png"
                                 class="logo-img" alt="logo"></a>
                     </div>
                     <div class="logo-slogan">
@@ -74,7 +74,7 @@
                 <div class="social-holder">
                     <span class="phn-numb">
                         <i>
-                            <img src="newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
+                            <img src="https://newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
                                 height="20" width="20" alt="icon">
                         </i>
                         <a href="tel: 1 7746436261" class="phone" style="color:#ffffff;">1 774 643 6261</a>
@@ -82,21 +82,21 @@
                     <ul class="social-icons">
                         <li>
                             <a href="https://web.facebook.com/BTLAestheticsInternational/?_rdc=1&_rdr" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com/BTLaesthetics" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
                         </li>
                         <li>
                             <a href="https://www.youtube.com/user/BTLmedical" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://www.instagram.com/btlaesthetics/" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
                             </a>
                         </li>
                     </ul>
@@ -197,7 +197,7 @@
                             <div class="dropdown">
                                 <span style="color:#FFFFFF;" id="menu-item-546"
                                     class="menu-item menu-item-type-post_type"><strong>MEDSPA</strong><img
-                                        src="newyoumedspaandaesthetics.com/img/Layer 1.png" hieht="10"
+                                        src="https://newyoumedspaandaesthetics.com/img/Layer 1.png" hieht="10"
                                         width="10" style="margin-left: 5px;margin-top:8px;" alt="icon" /></span>
                                 <div class="dropdown-content">
                                     <ul style="padding:0; margin:0; margin-left:17px;">
@@ -248,11 +248,11 @@
 
 
         <section class="laser-banner hair-banner">
-            <img src="newyoumedspaandaesthetics.com/img/new12-min.png" alt="vanquish">
+            <img src="https://newyoumedspaandaesthetics.com/img/new12-min.png" alt="vanquish">
             <div class="container">
                 <div class="banner-desc">
                     <h2><strong>&nbsp;&nbsp;BECAUSE<br> SIZE MATTERS</strong></h2>
-                    <img src="newyoumedspaandaesthetics.com/img/image/btl-vanquish_1544431631_original.png"
+                    <img src="https://newyoumedspaandaesthetics.com/img/image/btl-vanquish_1544431631_original.png"
                         alt="logo" style="position:relative;height:30px;width:326px;left:8px;bottom:5px" />
                 </div>
             </div>
@@ -277,7 +277,7 @@
                 <div class="bespoke3d-wrap">
                     <h1 class="class">BTL VANQUISH ME</h1>
                     <div class="client-post-img" style="position:relative;top:-10px;">
-                        <img class="success-img" src="newyoumedspaandaesthetics.com/img/image/vt.jfif"
+                        <img class="success-img" src="https://newyoumedspaandaesthetics.com/img/image/vt.jfif"
                             height="370" width="520" alt="vanquish video">
                         <div class="play-btn">
                             <a href="https://www.youtube.com/watch?v=0fJFTHOcZDs" class="popup-youtube">
@@ -323,7 +323,7 @@
             </div>
             <div class="imageblock__content pos-right">
                 <div class="background-image-holder"
-                    style="background: url(newyoumedspaandaesthetics.com/img/image/van234-min-min-min-min.png);">
+                    style="background: url(https://newyoumedspaandaesthetics.com/img/image/van234-min-min-min-min.png);">
                 </div>
             </div>
         </section>
@@ -341,7 +341,7 @@
             </div>
             <div class="imageblock__content pos-right" style="left: 0 !important">
                 <div class="background-image-holder"
-                    style="background: url(newyoumedspaandaesthetics.com/img/image/DSC00144-1-min.jpg);"></div>
+                    style="background: url(https://newyoumedspaandaesthetics.com/img/image/DSC00144-1-min.jpg);"></div>
             </div>
         </section>
 
@@ -352,7 +352,7 @@
                 <div class="treat-iems-wrap">
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/maxresdefault.jpg" alt="field">
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/maxresdefault.jpg" alt="field">
                         </div>
                         <div class="treat-desc">
                             <h4 style="color:#0095DA;"><strong>Field Rf</strong></h4>
@@ -360,7 +360,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/maxresdefault (1).jpg"
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/maxresdefault (1).jpg"
                                 alt="tachnology">
                         </div>
                         <div class="treat-desc">
@@ -369,7 +369,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/unnamed (1).png" alt="fat">
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/unnamed (1).png" alt="fat">
                         </div>
                         <div class="treat-desc">
                             <h4 style="color:#0095DA;"><strong>Fat Reduction</strong></h4>
@@ -377,7 +377,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/Vanquish_PIC_Image_illustration-effects-with-text.jpg"
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/Vanquish_PIC_Image_illustration-effects-with-text.jpg"
                                 alt="skin">
                         </div>
                         <div class="treat-desc">
@@ -404,23 +404,23 @@
             <br><br>
             <div class="slidercontainer" align="center">
                 <div class="showSlide fade">
-                    <img src="newyoumedspaandaesthetics.com/img/1/1-1-1.jpg" height="200px" width="250px"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/1-1-1.jpg" height="200px" width="250px"
                         alt="before and after" />
 
-                    <img src="newyoumedspaandaesthetics.com/img/1/1-1.jpg" height="200px" width="250px"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/1-1.jpg" height="200px" width="250px"
                         alt="before and after" />
                 </div>
                 <div class="showSlide fade">
-                    <img src="newyoumedspaandaesthetics.com/img/1/4-4-4.jpg" height="200" width="250"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/4-4-4.jpg" height="200" width="250"
                         alt="before and after" />
-                    <img src="newyoumedspaandaesthetics.com/img/1/4-4.jpg" height="200" width="250"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/4-4.jpg" height="200" width="250"
                         alt="before and after" />
                 </div>
 
                 <div class="showSlide fade">
-                    <img src="newyoumedspaandaesthetics.com/img/1/2-2-2.jpg" height="200" width="250"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/2-2-2.jpg" height="200" width="250"
                         alt="before and after" />
-                    <img src="newyoumedspaandaesthetics.com/img/1/2-2.jpg" height="200" width="250"
+                    <img src="https://newyoumedspaandaesthetics.com/img/1/2-2.jpg" height="200" width="250"
                         alt="before and after" />
                 </div>
 
@@ -482,7 +482,7 @@
                 <div class="treat-iems-wrap">
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/feature-flank_1544431761_original.png"
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/feature-flank_1544431761_original.png"
                                 alt="full flank">
                         </div>
                         <div class="treat-desc">
@@ -492,7 +492,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img">
-                            <img src="newyoumedspaandaesthetics.com/img/image/feature_scalpel_white_1548075125_original.png"
+                            <img src="https://newyoumedspaandaesthetics.com/img/image/feature_scalpel_white_1548075125_original.png"
                                 alt="invasive">
                         </div>
                         <div class="treat-desc">
@@ -502,7 +502,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img"> <img
-                                src="newyoumedspaandaesthetics.com/img/image/feature_bmi_1544431759_original.png"
+                                src="https://newyoumedspaandaesthetics.com/img/image/feature_bmi_1544431759_original.png"
                                 alt="not limited"></div>
                         <div class="treat-desc">
                             <h4 style="color:#ffffff;">NOT LIMITED<br>
@@ -511,7 +511,7 @@
                     </div>
                     <div class="treat-iems">
                         <div class="treat-post-img"> <img
-                                src="newyoumedspaandaesthetics.com/img/image/feature-no-surgery_1544431763_original.png"
+                                src="https://newyoumedspaandaesthetics.com/img/image/feature-no-surgery_1544431763_original.png"
                                 alt="no surgery"></div>
                         <div class="treat-desc">
                             <h4 style="color:#ffffff;">NO SURGERY<br>& NO ANESTHESIA</h4>
@@ -541,12 +541,12 @@
                             <div class="videos-post-img">
                                 <div class="video-overlay"></div>
                                 <img width="770" height="280"
-                                    src="newyoumedspaandaesthetics.com/img/image/666.jfif"
+                                    src="https://newyoumedspaandaesthetics.com/img/image/666.jfif"
                                     class="attachment-full size-full wp-post-image"
                                     sizes="(max-width: 770px) 100vw, 770px" alt="patient">
                             </div>
                             <div class="videos-post-content">
-                                <img src="newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
+                                <img src="https://newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
                                     width="45" alt="icon" style="position:relative;top: -72px;left: -2px;">
                             </div>
                         </a>
@@ -559,12 +559,12 @@
                         <a href="https://www.youtube.com/watch?v=L5rGOd3tyX0" class="popup-youtube">
                             <div class="videos-post-img">
                                 <div class="video-overlay"></div><img width="770" height="280"
-                                    src="newyoumedspaandaesthetics.com/img/1/slid/real-stor5-min-min.png"
+                                    src="https://newyoumedspaandaesthetics.com/img/1/slid/real-stor5-min-min.png"
                                     class="attachment-full size-full wp-post-image"
                                     sizes="(max-width: 770px) 100vw, 770px" alt="patient">
                             </div>
                             <div class="videos-post-content">
-                                <img src="newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
+                                <img src="https://newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
                                     width="45" alt="icon" style="position:relative;top: -72px;left: -2px;">
                             </div>
                         </a>
@@ -576,12 +576,12 @@
                         <a href="https://www.youtube.com/watch?v=mfkXriJ4q5k" class="popup-youtube">
                             <div class="videos-post-img">
                                 <div class="video-overlay"></div><img width="770" height="280"
-                                    src="newyoumedspaandaesthetics.com/img/image/628&size=360.jfif"
+                                    src="https://newyoumedspaandaesthetics.com/img/image/628&size=360.jfif"
                                     alt="patient" class="attachment-full size-full wp-post-image"
                                     sizes="(max-width: 770px) 100vw, 770px">
                             </div>
                             <div class="videos-post-content">
-                                <img src="newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
+                                <img src="https://newyoumedspaandaesthetics.com/img/image/video4444.png" height="45"
                                     width="45" alt="icon" style="position:relative;top: -72px;left: -2px;">
                             </div>
                         </a>
@@ -721,14 +721,14 @@
                 <div class="footer-col">
                     <ul class="social-icons">
                         <li><a href="https://web.facebook.com/BTLAestheticsInternational/?_rdc=1&_rdr"
-                                target="_blank"><img src="newyoumedspaandaesthetics.com/img/1/34.png"
+                                target="_blank"><img src="https://newyoumedspaandaesthetics.com/img/1/34.png"
                                     alt="icon"></a></li>
                         <li><a href="https://twitter.com/BTLaesthetics" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
                         <li><a href="https://www.youtube.com/user/BTLmedical" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
                         <li><a href="https://www.instagram.com/btlaesthetics/" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
                     </ul>
                 </div>
             </div>

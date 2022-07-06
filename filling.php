@@ -17,11 +17,11 @@
     <meta name="keywords" content="Newyoumed spa daesthetics">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link rel="canonical" href="newyoumedspaandaesthetics.com/" />
-    <link rel='shortlink' href='newyoumedspaandaesthetics.com/' />
-    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
-    <link rel="icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
-    <link rel="shortcut icon" alt="logo" href="newyoumedspaandaesthetics.com/img/1/favicon.png" />
+    <link rel="canonical" href="https://newyoumedspaandaesthetics.com/" />
+    <link rel='shortlink' href='https://newyoumedspaandaesthetics.com/' />
+    <link rel="icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="32x32" />
+    <link rel="icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" sizes="192x192" />
+    <link rel="shortcut icon" alt="logo" href="https://newyoumedspaandaesthetics.com/img/1/favicon.png" />
 
 </head>
 
@@ -73,7 +73,7 @@
                             }
                         }
                         </style>
-                        <a href="index.php"><img src="newyoumedspaandaesthetics.com/img/Group 18765.png"
+                        <a href="index.php"><img src="https://newyoumedspaandaesthetics.com/img/Group 18765.png"
                                 class="logo-img" alt="logo"></a>
                     </div>
                     <div class="logo-slogan">
@@ -88,7 +88,7 @@
                 <div class="social-holder">
                     <span class="phn-numb">
                         <i>
-                            <img src="newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
+                            <img src="https://newyoumedspaandaesthetics.com/img/Layer 1765.png" class="phone"
                                 height="20" width="20" alt="logo">
                         </i>
                         <a href="tel: 1 7746436261" class="phone" style="color:#ffffff;">1 774 643 6261</a>
@@ -96,21 +96,21 @@
                     <ul class="social-icons">
                         <li>
                             <a href="https://web.facebook.com/BTLAestheticsInternational/?_rdc=1&_rdr" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/34.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://twitter.com/BTLaesthetics" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a>
                         </li>
                         <li>
                             <a href="https://www.youtube.com/user/BTLmedical" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon">
                             </a>
                         </li>
                         <li>
                             <a href="https://www.instagram.com/btlaesthetics/" target="_blank">
-                                <img src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
+                                <img src="https://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon">
                             </a>
                         </li>
                     </ul>
@@ -216,7 +216,7 @@
                             <div class="dropdown">
                                 <span style="color:#FFFFFF;" id="menu-item-546"
                                     class="menu-item menu-item-type-post_type"><strong>MEDSPA</strong><img
-                                        src="newyoumedspaandaesthetics.com/img/Layer 1.png" hieht="10"
+                                        src="https://newyoumedspaandaesthetics.com/img/Layer 1.png" hieht="10"
                                         width="10" style="margin-left: 5px;margin-top:8px;" alt="icon" /></span>
                                 <div class="dropdown-content">
                                     <ul style="padding:0; margin:0; margin-left:17px;">
@@ -278,7 +278,7 @@
                 <div class="bespoke3d-wrap">
                     <h1 class="class" style="position:relative;left:14px;">Filling</h1>
                     <div class="client-post-img">
-                        <img class="success-img" src="newyoumedspaandaesthetics.com/img/image/3.jpg"
+                        <img class="success-img" src="https://newyoumedspaandaesthetics.com/img/image/3.jpg"
                             alt="filling">
                     </div>
                     <div class="bespoke3d-desc">
@@ -308,7 +308,7 @@
             </div>
             <div class="imageblock__content pos-right">
                 <div class="background-image-holder"
-                    style="background: url(newyoumedspaandaesthetics.com/img/image/1..jpg);"></div>
+                    style="background: url(https://newyoumedspaandaesthetics.com/img/image/1..jpg);"></div>
             </div>
         </section>
 
@@ -405,7 +405,7 @@
         <!--   <div class="blog-wrap">-->
         <!--       <div class="blog-item" style="position:relative;left: 101px;"> -->
         <!--<a href="btl emsculpt .html">-->
-        <!--  <img src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png" -->
+        <!--  <img src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png" -->
         <!--   height="50" width="50" alt="exclusive" style="margin-top:20px;" -->
         <!--  class="attachment-post-thumbnail size-post-thumbnail wp-post-image den"> -->
         <!--</a>-->
@@ -416,7 +416,7 @@
 
         <!--<div class="blog-item"> -->
         <!--    <a href="btl-exilis">-->
-        <!--<img width="50" height="50" src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png" alt="smart" class="attachment-post-thumbnail size-post-thumbnail wp-post-image dent" style="position:relative;top: 21px;left: 151px;">-->
+        <!--<img width="50" height="50" src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png" alt="smart" class="attachment-post-thumbnail size-post-thumbnail wp-post-image dent" style="position:relative;top: 21px;left: 151px;">-->
         <!--    </a>-->
         <!-- <div class="art">-->
         <!--    <p id="arti" style="position:relative;top: 25px;left: 153px;"><b class="gol">Smart Technology</b></p>-->
@@ -425,7 +425,7 @@
 
         <!--<div class="blog-item">-->
         <!--    <a href="vanquish.html">-->
-        <!--<img width="50" height="50" alt="conveniently" src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png" style="position:relative;left: 196px;top: 24px;" class="attachment-post-thumbnail size-post-thumbnail wp-post-image deni"></a>-->
+        <!--<img width="50" height="50" alt="conveniently" src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png" style="position:relative;left: 196px;top: 24px;" class="attachment-post-thumbnail size-post-thumbnail wp-post-image deni"></a>-->
         <!--<div class="conv">-->
         <!--<p id="cionv" style="position: relative;top: 20px;left: 200px;"><b class="whit">Conveniently Located</b></p>-->
         <!--<p  style="position: relative;top: 20px;left: 200px;">Our experienced providers have been serving the Key West community for over 10 years and are a stable part of the area</p>-->
@@ -442,7 +442,7 @@
                         <div class="card" style="border:none;">
                             <a href="btlEmsculpt.php" style="background-color:#F2F2F2;"><img class="card-img-top"
                                     style="height:50px; width:50px;"
-                                    src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
+                                    src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
                                     alt="Card image cap"></a>
                             <div class="card-body" style="background-color:#F2F2F2;">
                                 <p class="text-center">Exclusive Procedures</p>
@@ -455,7 +455,7 @@
                         <div class="card" style="border:none;">
                             <a href="btl-exilis.php" style="background-color:#F2F2F2;"><img class="card-img-top"
                                     style="height:50px; width:50px;"
-                                    src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
+                                    src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
                                     alt="Card image cap"></a>
                             <div class="card-body" style="background-color:#F2F2F2;">
                                 <p class="text-center">Smart Technology</p>
@@ -468,7 +468,7 @@
                         <div class="card" style="border:none;">
                             <a href="vanquish.php" style="background-color:#F2F2F2;"><img class="card-img-top"
                                     style="height:50px; width:50px;"
-                                    src="newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
+                                    src="https://newyoumedspaandaesthetics.com/img/image/about-icon-8.png"
                                     alt="Card image cap"></a>
                             <div class="card-body" style="background-color:#F2F2F2;">
                                 <p class="text-center">Conveniently Located</p>
@@ -499,7 +499,7 @@
             </div>
             <div class="imageblock__content pos-right" style="left: 0 !important">
                 <div class="background-image-holder"
-                    style="background: url(newyoumedspaandaesthetics.com/img/image/1800x1200_close_up_of_womans_eye_other.jpg);">
+                    style="background: url(https://newyoumedspaandaesthetics.com/img/image/1800x1200_close_up_of_womans_eye_other.jpg);">
                 </div>
             </div>
         </section>
@@ -590,7 +590,7 @@
                 <!--   <div class="blog-wrap">-->
                 <!--       <div class="blog-item" style="position:relative;left: 101px;"> -->
                 <!--<a href="btl emsculpt .html">-->
-                <!--  <img src="newyoumedspaandaesthetics.com/img/image/balili-min.png" -->
+                <!--  <img src="https://newyoumedspaandaesthetics.com/img/image/balili-min.png" -->
                 <!--   height="180" width="344" alt="skin" style="margin-top:20px;" -->
                 <!--  class="attachment-post-thumbnail size-post-thumbnail wp-post-image dei"> -->
                 <!--</a>-->
@@ -601,7 +601,7 @@
 
                 <!--<div class="blog-item"> -->
                 <!--    <a href="btl-exilis">-->
-                <!--<img  height="150" alt="smart" src="newyoumedspaandaesthetics.com/img/image/mah-min.png"  class="attachment-post-thumbnail size-post-thumbnail wp-post-image deniti" style="position:relative;top: 21px;left: 155px;max-width: 275px;">-->
+                <!--<img  height="150" alt="smart" src="https://newyoumedspaandaesthetics.com/img/image/mah-min.png"  class="attachment-post-thumbnail size-post-thumbnail wp-post-image deniti" style="position:relative;top: 21px;left: 155px;max-width: 275px;">-->
                 <!--    </a>-->
                 <!--    <style>-->
                 <!--        .me{-->
@@ -633,7 +633,7 @@
 
                 <!--<div class="blog-item">-->
                 <!--    <a href="vanquish.html">-->
-                <!--<img  height="150" alt="convenient" src="newyoumedspaandaesthetics.com/img/image/2-min-mi.png" style="position:relative;left: 210px;top: 24px;max-width:275px;" class="attachment-post-thumbnail size-post-thumbnail wp-post-image deniiy"></a>-->
+                <!--<img  height="150" alt="convenient" src="https://newyoumedspaandaesthetics.com/img/image/2-min-mi.png" style="position:relative;left: 210px;top: 24px;max-width:275px;" class="attachment-post-thumbnail size-post-thumbnail wp-post-image deniiy"></a>-->
                 <!--<div class="mei">-->
                 <!--<p id="tyl" style="position: relative;top: 15px;color: aqua;"><b class="whit">Conveniently Located</b></p>-->
                 <!--<p style="margin:10px;">Our experienced providers have been serving the Key West community for over 10 years and are a staple part of the area</p>-->
@@ -645,7 +645,7 @@
                         <div class="col-lg-4 col-md-12 col-sm-12 mb-3">
                             <div class="card">
                                 <a href="btlEmsculpt.php"><img class="card-img-top"
-                                        src="newyoumedspaandaesthetics.com/img/image/balili-min.png"
+                                        src="https://newyoumedspaandaesthetics.com/img/image/balili-min.png"
                                         alt="Card image cap"></a>
                                 <div class="card-body">
                                     <p class="text-center" style="color:aqua;">Skin Care</p>
@@ -657,7 +657,7 @@
                         <div class="col-lg-4 col-md-12 col-sm-12 mb-3">
                             <div class="card">
                                 <a href="btl-exilis.php"><img class="card-img-top"
-                                        src="newyoumedspaandaesthetics.com/img/image/mah-min.png"
+                                        src="https://newyoumedspaandaesthetics.com/img/image/mah-min.png"
                                         alt="Card image cap"></a>
                                 <div class="card-body">
                                     <p class="text-center" style="color:aqua;">Smart Technology</p>
@@ -669,7 +669,7 @@
                         <div class="col-lg-4 col-md-12 col-sm-12 mb-3">
                             <div class="card">
                                 <a href="vanquish.php"><img class="card-img-top"
-                                        src="newyoumedspaandaesthetics.com/img/image/2-min-mi.png"
+                                        src="https://newyoumedspaandaesthetics.com/img/image/2-min-mi.png"
                                         alt="Card image cap"></a>
                                 <div class="card-body">
                                     <p class="text-center" style="color:aqua;">Conveniently Located</p>
@@ -785,14 +785,14 @@
                 <div class="footer-col">
                     <ul class="social-icons">
                         <li><a href="https://web.facebook.com/BTLAestheticsInternational/?_rdc=1&_rdr"
-                                target="_blank"><img src="newyoumedspaandaesthetics.com/img/1/34.png"
+                                target="_blank"><img src="https://newyoumedspaandaesthetics.com/img/1/34.png"
                                     alt="icon"></a></li>
                         <li><a href="https://twitter.com/BTLaesthetics" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/38.png" alt="icon"></a></li>
                         <li><a href="https://www.youtube.com/user/BTLmedical" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/39.png" alt="icon"></a></li>
                         <li><a href="https://www.instagram.com/btlaesthetics/" target="_blank"><img
-                                    src="newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
+                                    src="https://newyoumedspaandaesthetics.com/img/1/35.png" alt="icon"></a></li>
                     </ul>
                 </div>
             </div>
